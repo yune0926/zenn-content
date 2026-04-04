@@ -2,7 +2,7 @@
 title: "40歳・IT歴あり・でもPython書けなかった私がKaggleに挑戦するためのデータ分析環境を整えた話"
 emoji: "🐍"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["kaggle", "python", "データ分析", "機械学習", "初心者"]
+topics: ["kaggle", "python", "データ分析", "機械学習", "初心者向け"]
 published: true
 ---
 
